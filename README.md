@@ -1,2 +1,2 @@
 # 2024_SnackerTracker
-Analysis software for SnackerTracker behavioural data
+This repository contains software used to analyse SnackerTracker data.
