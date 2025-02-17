@@ -18,7 +18,7 @@ Zenodo: https://zenodo.org/records/14633000
 
 **Additional references and resources are as follows:**
 
-Figshare (collection, with the files below contained within this collection): https://figshare.com/s/a5924125021151b3e1cc
+Figshare (collection, with the files below contained within this collection): https://doi.org/10.6084/m9.figshare.c.7622126.v1
 
 Figshare (reporting guidelines): https://figshare.com/s/f29fd551828c918cc473
 
