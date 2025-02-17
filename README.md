@@ -4,6 +4,9 @@ Accurately measuring activity and feeding is frequently important in laboratory 
 
 This repository contains software used to analyse SnackerTracker data.
 
-Please cite this software: https://doi.org/10.5281/zenodo.14632999
+Please cite this software: 
+Zenodo: 10.5281/zenodo.14632999
+Figshare (direct copy, included here nevertheless): 10.6084/m9.figshare.28189805
 
-Please reference additional materials: https://doi.org/10.6084/m9.figshare.c.7622126
+Please reference additional materials: 
+Overview video: 10.6084/m9.figshare.28189793
