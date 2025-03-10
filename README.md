@@ -18,24 +18,24 @@ Zenodo: https://zenodo.org/records/14633000
 
 **Additional references and resources are as follows:**
 
-Figshare (collection, with the files below contained within this collection): https://doi.org/10.6084/m9.figshare.c.7622126.v1
+Figshare (collection, with the files below also labelled as 'Figshare' contained within this collection): https://doi.org/10.6084/m9.figshare.c.7622126.v1
 
-Figshare (reporting guidelines): https://figshare.com/s/f29fd551828c918cc473
+Figshare (reporting guidelines): https://doi.org/10.6084/m9.figshare.28407746
 
-Figshare (extended data): https://figshare.com/s/5b78cd935e6a774bd268
+Figshare (extended data): https://doi.org/10.6084/m9.figshare.28407689
 
-Figshare (underlying data): https://figshare.com/s/687765cd59c195ac25bf
+Figshare (underlying data): https://doi.org/10.6084/m9.figshare.28191125
 
-Figshare (user resources): https://figshare.com/s/0db67e4d09af5665a16b
+Figshare (video overview and user guidance): https://doi.org/10.6084/m9.figshare.28189793
 
-Figshare (overview video): https://doi.org/10.6084/m9.figshare.28189793
+Figshare (linked code, identical to what is provided in GitHub and Zenodo): https://doi.org/10.6084/m9.figshare.28189805
 
-Figshare (linked code, identical to what is provided in GitHub and Zenodo): https://doi.org/10.6084/m9.figshare.28189805.v1
+Figshare (construction materials): https://doi.org/10.6084/m9.figshare.28464317
 
-Protocols.io (detailed construction and operation instructions): https://www.protocols.io/private/CA236E9DECC211EF8B940A58A9FEAC02 
+Protocols.io (detailed construction and operation instructions): https://dx.doi.org/10.17504/protocols.io.rm7vzke8rvx1/v1
 
-Arduino Project Hub (construction details): https://projecthub.arduino.cc/projects/d86bf354-0aea-4ecd-93c6-b0ba7ce85678/preview
+Arduino Project Hub (construction details): https://projecthub.arduino.cc/marissamueller/snackertracker-d86bf3
 
-NIH 3D Model (3D model provision and specifications): https://3d.nih.gov/entries/3DPX-021724
+NIH 3D Model (3D model provision and specifications): https://doi.org/10.60705/3dpx/21724.1
 
 NIH 3D Build (contains the 3D model above with additional construction details): https://3d.nih.gov/builds/657
